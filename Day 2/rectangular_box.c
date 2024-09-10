@@ -11,5 +11,4 @@ int main(){
     printf("|\t \t|\n");
     printf("- - - - - - - - -\n");
 
-
 }

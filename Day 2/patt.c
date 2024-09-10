@@ -2,14 +2,17 @@
 
 int main(){
     
-    int a;
+    int a,b;
 
     printf("Enter Value..");
     scanf("%d",&a);
 
+    printf("Enter Value..");
+    scanf("%d",&b);
+
     printf("- - - - - - - - -\n");
     printf("|\t \t|\n");
-    printf("|  5 x 5 = %d", a*a);
+    printf("| %d x %d = %d", a,b,a*b);
     printf("\t|\n");
     printf("|\t \t|\n");
     printf("- - - - - - - - -\n");
